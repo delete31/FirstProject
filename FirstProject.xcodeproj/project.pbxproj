@@ -207,16 +207,13 @@
 				TargetAttributes = {
 					9C71CC841C7305A400EA570E = {
 						CreatedOnToolsVersion = 7.2.1;
-						DevelopmentTeam = Y5C4PFT7R3;
 					};
 					9C71CC9D1C7305A400EA570E = {
 						CreatedOnToolsVersion = 7.2.1;
-						DevelopmentTeam = Y5C4PFT7R3;
 						TestTargetID = 9C71CC841C7305A400EA570E;
 					};
 					9C71CCA81C7305A400EA570E = {
 						CreatedOnToolsVersion = 7.2.1;
-						DevelopmentTeam = Y5C4PFT7R3;
 						TestTargetID = 9C71CC841C7305A400EA570E;
 					};
 				};
